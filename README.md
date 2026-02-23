@@ -46,13 +46,14 @@ For Sine Wave Input:
 | 4    | Square Wave (higher freq) | 1 kHz     | Higher amplitude spikes               | Narrower and sharper spikes seen                |
 | 5    | Sine Wave (higher freq)   | 1 kHz     | Higher amplitude cosine               | Output amplitude increased                      |
 ## Waveforms
+<img width="1374" height="879" alt="image" src="https://github.com/user-attachments/assets/179512f3-7a13-4e36-879c-c3d400a7cc3d" />
+<img width="1378" height="878" alt="image" src="https://github.com/user-attachments/assets/16965897-342d-49bd-8310-91b115fae6d1" />
+<img width="1377" height="879" alt="image" src="https://github.com/user-attachments/assets/8281f66b-a594-46fa-bc8e-084e06fe4389" />
+
 ## Result
 The Integrator circuit using μA741 Op-Amp was successfully designed and simulated in Proteus.
 The output waveform is proportional to the integral of the input signal.
 The circuit behaves as an integrator.
-<img width="1374" height="879" alt="image" src="https://github.com/user-attachments/assets/179512f3-7a13-4e36-879c-c3d400a7cc3d" />
-<img width="1378" height="878" alt="image" src="https://github.com/user-attachments/assets/16965897-342d-49bd-8310-91b115fae6d1" />
-<img width="1377" height="879" alt="image" src="https://github.com/user-attachments/assets/8281f66b-a594-46fa-bc8e-084e06fe4389" />
 
 ## Conclusion
 •	Output lags input by 90° (for sine input).
